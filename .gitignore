@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+data/*.csv
+models_artifacts/*.joblib
+models_artifacts/*.json
+.pytest_cache/
